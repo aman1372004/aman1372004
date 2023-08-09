@@ -1,12 +1,8 @@
-[[!MasterHead](https://terralogic.com/wp-content/uploads/2021/06/springworl.png)]
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
 <h3 align="center">A passionate computer science student from India</h3>
-(img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg")
-
+<img align="right" alt="Coding" width="400" src="https://terralogic.com/wp-content/uploads/2021/06/coding.png"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman1372004&label=Profile%20views&color=0e75b6&style=flat" alt="aman1372004" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman1372004" alt="aman1372004" /></a> </p>
 
 - 📫 How to reach me **ar2465057@gmail.com**
 
