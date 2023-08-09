@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
+
 <h3 align="center">A passionate computer science student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://terralogic.com/wp-content/uploads/2021/06/coding.png"
 
